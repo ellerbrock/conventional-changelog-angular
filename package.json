@@ -33,7 +33,7 @@
     "jscs": "^3.0.7",
     "jshint": "^2.9.4",
     "mocha": "*",
-    "shelljs": "^0.8.0",
+    "shelljs": "^0.8.4",
     "through2": "^3.0.0"
   },
   "dependencies": {
